@@ -219,4 +219,9 @@
   ![image](https://github.com/Pranay-Pandey/ml-assignment-backend/assets/79053599/32b63692-b32f-4e4a-a3e3-5566fe030311)
 
   
+# Demo Video 
+
+
+https://github.com/Pranay-Pandey/ml-assignment-frontend/assets/79053599/72b11da0-1828-4431-8af5-d7293902f5d1
+
 
